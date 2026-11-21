@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "divinemod",
+  "version": "${version}",
+  "name": "Items Divins",
+  "description": "La Forge Céleste transforme tes items en diamant en items DIVINS, chacun avec ses pouvoirs. Inspiré de la vidéo de Lined.",
+  "authors": ["Athen"],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["fr.athen.divinemod.DivineMod"],
+    "client": ["fr.athen.divinemod.client.DivineModClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "item.divinemod.divine_helmet": "Casque Divin",
+  "item.divinemod.divine_chestplate": "Plastron Divin",
+  "item.divinemod.divine_leggings": "Jambières Divines",
+  "item.divinemod.divine_boots": "Bottes Divines",
+  "item.divinemod.divine_sword": "Épée Divine",
+  "item.divinemod.divine_pickaxe": "Pioche Divine",
+  "item.divinemod.divine_axe": "Hache Divine",
+  "item.divinemod.divine_bow": "Arc Divin",
+  "item.divinemod.divine_lighter": "Briquet Divin",
+  "item.divinemod.divine_apple": "Pomme Divine",
+  "item.divinemod.divine_eye": "Œil Divin",
+  "block.divinemod.celestial_forge": "Forge Céleste",
+  "itemGroup.divinemod": "Items Divins",
+  "category.divinemod": "Items Divins",
+  "key.divinemod.gaze": "Regard Autoritaire (Casque)",
+  "key.divinemod.clones": "Multi-Clonage (Jambières)",
+  "key.divinemod.speed_up": "Nuage : + vite (Bottes)",
+  "key.divinemod.speed_down": "Nuage : - vite (Bottes)"
+}

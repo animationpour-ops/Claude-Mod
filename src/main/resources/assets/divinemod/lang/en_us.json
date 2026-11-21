@@ -1,0 +1,20 @@
+{
+  "item.divinemod.divine_helmet": "Divine Helmet",
+  "item.divinemod.divine_chestplate": "Divine Chestplate",
+  "item.divinemod.divine_leggings": "Divine Leggings",
+  "item.divinemod.divine_boots": "Divine Boots",
+  "item.divinemod.divine_sword": "Divine Sword",
+  "item.divinemod.divine_pickaxe": "Divine Pickaxe",
+  "item.divinemod.divine_axe": "Divine Axe",
+  "item.divinemod.divine_bow": "Divine Bow",
+  "item.divinemod.divine_lighter": "Divine Lighter",
+  "item.divinemod.divine_apple": "Divine Apple",
+  "item.divinemod.divine_eye": "Divine Eye",
+  "block.divinemod.celestial_forge": "Celestial Forge",
+  "itemGroup.divinemod": "Divine Items",
+  "category.divinemod": "Divine Items",
+  "key.divinemod.gaze": "Authoritarian Gaze (Helmet)",
+  "key.divinemod.clones": "Multi-Clone (Leggings)",
+  "key.divinemod.speed_up": "Cloud: faster (Boots)",
+  "key.divinemod.speed_down": "Cloud: slower (Boots)"
+}
